@@ -1,2 +1,0 @@
-# Monster
-Created with CodeSandbox
